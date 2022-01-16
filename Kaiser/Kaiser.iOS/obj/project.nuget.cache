@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "dgSpecHash": "fuZ7lDdmtx9J19rcw6wbNC9E5pvJZw0U9ictd8zIf/qUMQoMz+na6m4uxyCpPzMY9zI3qwEIdzVCrp6fdCF5ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\Kaiser\\Kaiser\\Kaiser.iOS\\Kaiser.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\sharpnado.materialframe\\1.1.1\\sharpnado.materialframe.1.1.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\sharpnado.presentation.forms\\1.7.1\\sharpnado.presentation.forms.1.7.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\sharpnado.shadows\\1.2.0\\sharpnado.shadows.1.2.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\sharpnado.taskloaderview\\2.0.1\\sharpnado.taskloaderview.2.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\sharpnado.taskmonitor\\1.0.0\\sharpnado.taskmonitor.1.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\thomaslevesque.weakevent\\4.1.0\\thomaslevesque.weakevent.4.1.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.759\\xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.plugin.sharedtransitions\\2.4.0\\xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.7.0 to 1.6.1. Reference the package directly from the project to select a different version. \r\n Kaiser.iOS -> Kaiser -> Xamarin.Essentials (>= 1.7.0) \r\n Kaiser.iOS -> Xamarin.Essentials (>= 1.6.1)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2125 to 5.0.0.2012. Reference the package directly from the project to select a different version. \r\n Kaiser.iOS -> Kaiser -> Xamarin.Forms (>= 5.0.0.2125) \r\n Kaiser.iOS -> Xamarin.Forms (>= 5.0.0.2012)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

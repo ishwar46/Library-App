@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rqHxPJlVZizVCoiBGNs7zYTHM5xPTLEl8kRoqNVquYJVN+pDDZ0aRh1sVhvKSHI1FozAvjPEbZCXAjAcOcLzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\Kaiser\\Kaiser\\Kaiser\\Kaiser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\sharpnado.materialframe\\1.1.1\\sharpnado.materialframe.1.1.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\sharpnado.presentation.forms\\1.7.1\\sharpnado.presentation.forms.1.7.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\sharpnado.shadows\\1.2.0\\sharpnado.shadows.1.2.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\sharpnado.taskloaderview\\2.0.1\\sharpnado.taskloaderview.2.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\sharpnado.taskmonitor\\1.0.0\\sharpnado.taskmonitor.1.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\thomaslevesque.weakevent\\4.1.0\\thomaslevesque.weakevent.4.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.forms\\5.0.0.2125\\xamarin.forms.5.0.0.2125.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.759\\xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.plugin.sharedtransitions\\2.4.0\\xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
